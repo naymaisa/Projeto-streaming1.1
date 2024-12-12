@@ -1,14 +1,69 @@
 .hero {
-    padding-top: 64px;
-    padding-bottom: 100px;
-    background-image: url(../images/WeatheringwithYou600.jpg);
+    padding: 5.6vw;
+    min-height: 80vh;
+    background-image: url(../images/AN_Suzume-no-Tojimari.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 
+    // Camada opaca
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5); // Cor opaca
+        z-index: 1;
+    }
+
+    // Contêiner do conteúdo
+    &__content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; // Garante o espaço entre a logo e o título
+        height: 100%;
+        z-index: 2;
+    }
+
+    // Logo posicionada no topo do hero
     &__logo {
-        height: 200px;
-        margin-top: 50px;
+        align-self: flex-start; // Alinha a logo ao topo
+        height: 300px; // Ajuste o tamanho da logo conforme necessário
+        z-index: 2;
+    }
 
+    // Título posicionado na parte inferior do hero
+    .title--small {
+        position: absolute;
+        bottom: 10%; // Ajusta a posição do título para ficar no fundo
+        left: 16%; // Alinha à esquerda com a logo
+        color: #fff;
+        font-size: 1.2rem;
+        line-height: 1.5;
+        max-width: 400px;
+        z-index: 2;
+        text-align: justify;
+    }
 
+    // Ajustes responsivos
+    @media (max-width: 640px) {
+        &__logo {
+            height: 200px; // Ajusta o tamanho da logo para telas pequenas
+            top: 5%; // Ajuste a posição da logo para telas pequenas
+        }
+
+        .title--small {
+            font-size: 1rem; // Reduz o tamanho do texto para telas pequenas
+            bottom: 5%; // Ajusta a posição do título
+        }
+    }
+
+    @media (max-width: 1024px) {
+        &__logo {
+            height: 250px; // Ajusta o tamanho da logo para telas médias
+        }
     }
 }

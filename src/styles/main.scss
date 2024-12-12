@@ -5,7 +5,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    ;
+    font-family: "Roboto", serif;
+}
+
+body {
+    background-color: rgb(19, 93, 130);
 }
 
 .container {
@@ -21,5 +25,25 @@
 
     @media (max-width: 1024px) {
         max-width: 90%;
+    }
+}
+
+.title--small {
+    color: #fff;
+    height: 20px;
+
+}
+
+.play {
+    display: block;
+    width: 50%;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+
+    &:hover {
+        transform: scale(0.95);
+        /* Reduz o tamanho do botão para 95% */
     }
 }
