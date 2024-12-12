@@ -1,4 +1,4 @@
-4410
+4429
 51C:\Estudo\Projeto-streaming1.2\src\images\ponyo.png133783065089001476 0
 77C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\graph\lib\ContentGraph.js133784820881796307 0
 86C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\src\requests\ConfigRequest.js133784820883953554 0
@@ -26,7 +26,7 @@
 75C:\Estudo\Projeto-streaming1.2\node_modules\lightningcss\node\index.js.flow133784820881078435 0
 57C:\Estudo\Projeto-streaming1.2\node_modules\source-map-js133784826086675053 1
 105C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\runtime-js\lib\helpers\browser\esm-js-loader-retry.js133784820882202717 0
-43C:\Estudo\Projeto-streaming1.2\package.json133785132912344614 0
+43C:\Estudo\Projeto-streaming1.2\package.json133785175694950030 0
 62C:\Estudo\Projeto-streaming1.2\node_modules\utility-types\dist133784820882505072 1
 73C:\Estudo\Projeto-streaming1.2\src\images\palavras-que-borbulahm-capa.jpg133785096668557983 0
 87C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\ambient-light.js133784820883073681 0
@@ -44,7 +44,7 @@
 48C:\Estudo\Projeto-streaming1.2\src\images\images133784855328690153 1
 81C:\Estudo\Projeto-streaming1.2\node_modules\posthtml\node_modules\posthtml-parser133784820880917338 1
 84C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\src\_is_native_function.mjs133784820887914842 0
-35C:\Estudo\Projeto-streaming1.2\dist133785169916954636 1
+35C:\Estudo\Projeto-streaming1.2\dist133785175752676321 1
 75C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\regions\BA.js133784820883891083 0
 69C:\Estudo\Projeto-streaming1.2\node_modules\lines-and-columns\LICENSE133784820879392046 0
 74C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\src\assetUtils.js133784820883281413 0
@@ -453,6 +453,7 @@
 81C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\src\_super_prop_base.mjs133784820888151251 0
 87C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\localecompare.js133784820889018457 0
 70C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\rust\index.js.flow133784820879825615 0
+62C:\Estudo\Projeto-streaming1.2\dist\komi-san-capa.f054522d.jpg133785175745024227 0
 55C:\Estudo\Projeto-streaming1.2\node_modules\detect-libc133784820880898090 1
 93C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133784820884211228 0
 58C:\Estudo\Projeto-streaming1.2\node_modules\dom-serializer133784820881834007 1
@@ -780,7 +781,7 @@
 75C:\Estudo\Projeto-streaming1.2\node_modules\update-browserslist-db\utils.js133784820880711558 0
 97C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\_\_class_private_field_init\package.json133784820886398116 0
 87C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\css-boxshadow.js133784820885420737 0
-46C:\Estudo\Projeto-streaming1.2\dist\index.html133785169916943561 0
+46C:\Estudo\Projeto-streaming1.2\dist\index.html133785175752607569 0
 63C:\Estudo\Projeto-streaming1.2\node_modules\type-fest\base.d.ts133784820881064676 0
 89C:\Estudo\Projeto-streaming1.2\node_modules\posthtml\node_modules\domutils\lib\helpers.js133784820880201386 0
 60C:\Estudo\Projeto-streaming1.2\node_modules\cosmiconfig\dist133784820883880719 1
@@ -1209,6 +1210,7 @@
 68C:\Estudo\Projeto-streaming1.2\node_modules\is-arrayish\package.json133784820879392046 0
 70C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\_\_instanceof133784820886793154 1
 90C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\src\_class_private_method_set.mjs133784820887703522 0
+63C:\Estudo\Projeto-streaming1.2\dist\your-name-capa.82f101a1.jpg133785175745034207 0
 67C:\Estudo\Projeto-streaming1.2\node_modules\semver\functions\inc.js133784820882336955 0
 101C:\Estudo\Projeto-streaming1.2\node_modules\posthtml\node_modules\dom-serializer\lib\esm\package.json133784820881181704 0
 79C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\regions\alt-as.js133784820882616422 0
@@ -1591,9 +1593,11 @@
 93C:\Estudo\Projeto-streaming1.2\node_modules\posthtml\node_modules\dom-serializer\lib\index.js133784820880985285 0
 63C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\events\test133784820881885719 1
 96C:\Estudo\Projeto-streaming1.2\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133784820881976199 0
+54C:\Estudo\Projeto-streaming1.2\dist\index.c95f7fa1.css133785175752607569 0
 68C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\watcher\src\wasm133784820883271417 1
 99C:\Estudo\Projeto-streaming1.2\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts133784820882150374 0
 76C:\Estudo\Projeto-streaming1.2\node_modules\msgpackr\dist\unpack-no-eval.cjs133784820881254501 0
+58C:\Estudo\Projeto-streaming1.2\dist\index.c95f7fa1.css.map133785175752666366 0
 69C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\packager-wasm\lib133784820880747260 1
 103C:\Estudo\Projeto-streaming1.2\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts.map133784820881700504 0
 80C:\Estudo\Projeto-streaming1.2\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133784820883852072 0
@@ -3067,6 +3071,7 @@
 83C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\dom-range.js133784820887150516 0
 92C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133784820882465072 0
 90C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\domcontentloaded.js133784820887160712 0
+59C:\Estudo\Projeto-streaming1.2\dist\ponyo-capa.bd3f14c1.png133785175748958330 0
 83C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\dommatrix.js133784820887170715 0
 82C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\download.js133784820887180715 0
 77C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\eme.js133784820887250698 0
@@ -3296,6 +3301,7 @@
 90C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\user-select-none.js133784820891173877 0
 85C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\user-timing.js133784820891183881 0
 88C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\variable-fonts.js133784820891213867 0
+60C:\Estudo\Projeto-streaming1.2\dist\bublle-capa.dad4a371.jpg133785175745024227 0
 87C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\vector-effect.js133784820891243873 0
 79C:\Estudo\Projeto-streaming1.2\node_modules\caniuse-lite\data\features\video.js133784820891273878 0
 98C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133784820886341120 1
@@ -3472,6 +3478,7 @@
 92C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js133784820885026852 0
 81C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\_\_to_array\package.json133784820887170715 0
 78C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\_\_throw\package.json133784820887160712 0
+66C:\Estudo\Projeto-streaming1.2\dist\o-temp-com-voce-1.05fa7db2.jpg133785175748948325 0
 88C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\esm\_interop_require_default.js133784820885476446 0
 102C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json133784820887138073 0
 88C:\Estudo\Projeto-streaming1.2\node_modules\@swc\helpers\_\_super_prop_base\package.json133784820887128071 0
@@ -3730,6 +3737,7 @@
 56C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core133784820886371120 1
 62C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\diagnostic133784820881088441 1
 54C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\fs133784820882465072 1
+60C:\Estudo\Projeto-streaming1.2\dist\nozaki-capa.bae735dc.jpg133785175748958330 0
 57C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\graph133784820882772620 1
 58C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\logger133784820880807913 1
 65C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\markdown-ansi133784820880787922 1
@@ -4255,6 +4263,7 @@
 74C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\lib\AssetGraph.js133784820882897929 0
 74C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\lib\assetUtils.js133784820883251414 0
 78C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\lib\CommittedAsset.js133784820883830048 0
+53C:\Estudo\Projeto-streaming1.2\dist\index.308abcfe.js133785175752607569 0
 73C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\lib\constants.js133784820884003558 0
 83C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133784820884147227 0
 78C:\Estudo\Projeto-streaming1.2\node_modules\@parcel\core\lib\PackagerRunner.js133784820884735884 0
@@ -4386,10 +4395,15 @@
 59C:\Estudo\Projeto-streaming1.2\node_modules\.bin\semver.cmd133784820892312969 0
 59C:\Estudo\Projeto-streaming1.2\node_modules\.bin\semver.ps1133784820892312969 0
 71C:\Estudo\Projeto-streaming1.2\node_modules\.bin\update-browserslist-db133784820892322964 0
+77C:\Estudo\Projeto-streaming1.2\dist\anime-o-castelo-animado-capa.4ec4929d.png133785175752597582 0
 77C:\Estudo\Projeto-streaming1.2\dist\anime-o-castelo-animado-capa.6c4151bd.png133785169915580540 0
+70C:\Estudo\Projeto-streaming1.2\dist\AN_Suzume-no-Tojimari.026bd142.jpg133785175752607569 0
 60C:\Estudo\Projeto-streaming1.2\dist\bublle-capa.70ad1c82.jpg133785169915561195 0
+61C:\Estudo\Projeto-streaming1.2\dist\call-of-capa.662b0629.jpg133785175748948325 0
 61C:\Estudo\Projeto-streaming1.2\dist\call-of-capa.fd20c952.jpg133785169915611317 0
 63C:\Estudo\Projeto-streaming1.2\dist\capa-your-name.4088e5e7.jpg133785077319111132 0
+66C:\Estudo\Projeto-streaming1.2\dist\demonsslayer-capa.b5139623.jpg133785175752597582 0
+57C:\Estudo\Projeto-streaming1.2\dist\index.308abcfe.js.map133785175752666366 0
 53C:\Estudo\Projeto-streaming1.2\dist\index.de158e3a.js133785169914735487 0
 57C:\Estudo\Projeto-streaming1.2\dist\index.de158e3a.js.map133785169914794011 0
 53C:\Estudo\Projeto-streaming1.2\dist\index.f75de5e1.js133785128714087428 0
@@ -4397,12 +4411,17 @@
 61C:\Estudo\Projeto-streaming1.2\dist\lstofus-logo.b9d09fb3.png133784876552315734 0
 66C:\Estudo\Projeto-streaming1.2\dist\o-tempo-com-vc-23.fecdd5ae.jpg133784878914372870 0
 72C:\Estudo\Projeto-streaming1.2\dist\o-tempo-com-voce-capa-p.07ee5ffc.jpg133785078673751531 0
+76C:\Estudo\Projeto-streaming1.2\dist\palavras-que-borbulahm-capa.ae458e16.jpg133785175745024227 0
 71C:\Estudo\Projeto-streaming1.2\dist\princesa-mononoke-capa.384da7c7.png133785169915989757 0
+71C:\Estudo\Projeto-streaming1.2\dist\princesa-mononoke-capa.f97adb79.png133785175752607569 0
 68C:\Estudo\Projeto-streaming1.2\dist\Projeto-streaming1.2.59712999.js133785169915318472 0
+60C:\Estudo\Projeto-streaming1.2\dist\sailor-capa.e198e905.jpg133785175745024227 0
 71C:\Estudo\Projeto-streaming1.2\dist\sakura_capa__61ea90m94.0c7d6d82.jpg133785169915919716 0
+71C:\Estudo\Projeto-streaming1.2\dist\sakura_capa__61ea90m94.95362d67.jpg133785175752607569 0
 43C:\Estudo\Projeto-streaming1.2\dist\scripts133785128714050888 1
 74C:\Estudo\Projeto-streaming1.2\dist\Suzume-storyart_na_04_zxx.f4bd2cf2.jpg133785053132334982 0
 74C:\Estudo\Projeto-streaming1.2\dist\Suzume20-removebg-preview.1c6d9013.png133785169915577659 0
+74C:\Estudo\Projeto-streaming1.2\dist\Suzume20-removebg-preview.1ed879ff.png133785175752607569 0
 58C:\Estudo\Projeto-streaming1.2\dist\suzumelog.412b52ad.png133784884820867728 0
 69C:\Estudo\Projeto-streaming1.2\dist\WeatheringwithYou600.5250601d.jpg133784881528882513 0
 56C:\Estudo\Projeto-streaming1.2\dist\weatlog.5201f071.png133784880608742882 0
