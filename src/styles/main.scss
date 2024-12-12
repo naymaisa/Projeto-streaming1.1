@@ -1,12 +1,14 @@
 @use 'hero';
 @use 'shows';
 @use 'footer';
+@use 'header';
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", serif;
+    color: #fff;
 }
 
 body {
@@ -35,13 +37,15 @@ body {
 
 }
 
-.play {
+.button {
     display: block;
     width: 50%;
     height: 60px;
     font-size: 18px;
     font-weight: bold;
     cursor: pointer;
+    text-decoration: none;
+    color: #000;
 
     &:hover {
         transform: scale(0.95);
